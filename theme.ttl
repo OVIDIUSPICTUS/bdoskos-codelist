@@ -6,7 +6,7 @@
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix dc: <http://purl.org/dc/terms/> .
 
-<http://ovidiuspictus.es/bdo/kos/subject> a skos:ConceptScheme ;
+<http://ovidiuspictus.es/bdo/kos/theme> a skos:ConceptScheme ;
     
     skos:hasTopConcept <http://ovidiuspictus.es/bdo/kos/theme/Abril> ;
     skos:hasTopConcept <http://ovidiuspictus.es/bdo/kos/theme/Acmón y sus compañeros en aves> ;
